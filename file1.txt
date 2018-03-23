@@ -5,3 +5,6 @@ file2
 file merging
 FILE 2
 
+
+
+TEST 3
